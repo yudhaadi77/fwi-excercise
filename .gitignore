@@ -1,0 +1,9 @@
+# external repositories cloned for running the exercises
+devito/
+devito-data/
+# generated files
+animation/fwi_frames.npz
+animation/frames/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
