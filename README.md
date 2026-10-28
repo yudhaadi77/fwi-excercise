@@ -1,9 +1,5 @@
 # Full Waveform Inversion exercises with Devito
 
-Python exercises that accompany my comprehensive examination report
-*Full Waveform Inversion: Fundamentals, Mathematical Framework, Types and Applications, with Python Exercises in Devito*
-(Yudha Adi Putra, Geophysics, King Fahd University of Petroleum and Minerals, 2026).
-
 The notebook walks through the core pieces of acoustic FWI on a 2-D Marmousi section, from forward modeling
 to a complete multiscale inversion, using [Devito](https://github.com/devitocodes/devito) v4.8.23.
 
